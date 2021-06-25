@@ -3785,4 +3785,22 @@
 
     <path name="call-proxy-in">
     </path>
+
+    <path name="voice-call speaker">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
+
+    <path name="voice-call handset">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
+
+    <path name="voice-call">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
 </mixer>

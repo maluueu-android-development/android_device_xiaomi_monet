@@ -3771,4 +3771,22 @@
         <ctl name="WSA_CDC_DMA_RX_0_DL_HL Switch" value="1" />
     </path>
 
+    <path name="voice-call speaker">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
+
+    <path name="voice-call handset">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
+
+    <path name="voice-call">
+        <path name="voice-handset" />
+        <path name="voice-dmic-ef" />
+        <path name="voicemmode1-call" />
+    </path>
+
 </mixer>
